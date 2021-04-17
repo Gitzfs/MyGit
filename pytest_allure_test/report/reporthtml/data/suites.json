@@ -1,19 +1,18 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "name" : "suites",
   "children" : [ {
     "name" : "test_case",
     "children" : [ {
       "name" : "test_information3",
       "children" : [ {
         "name" : "test_information",
-        "uid" : "98025b7d7caca079",
+        "uid" : "eb998448c6f1c585",
         "parentUid" : "60aae546b65cc1897eac00f3c62871de",
         "status" : "passed",
         "time" : {
-          "start" : 1618653806569,
-          "stop" : 1618653806862,
-          "duration" : 293
+          "start" : 1618654018488,
+          "stop" : 1618654018706,
+          "duration" : 218
         },
         "flaky" : false,
         "newFailed" : false,
@@ -22,5 +21,6 @@
       "uid" : "60aae546b65cc1897eac00f3c62871de"
     } ],
     "uid" : "86abcc46617c603d802c3e378b13740e"
-  } ]
+  } ],
+  "name" : "suites"
 }
