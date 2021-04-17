@@ -7,13 +7,13 @@
       "name" : "test_information3",
       "children" : [ {
         "name" : "test_information",
-        "uid" : "a16d2b7dcdc14fb0",
+        "uid" : "d36800169659b617",
         "parentUid" : "60aae546b65cc1897eac00f3c62871de",
         "status" : "passed",
         "time" : {
-          "start" : 1618651076775,
-          "stop" : 1618651077018,
-          "duration" : 243
+          "start" : 1618653040096,
+          "stop" : 1618653040493,
+          "duration" : 397
         },
         "flaky" : false,
         "newFailed" : false,
