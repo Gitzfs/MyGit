@@ -7,5 +7,4 @@ if __name__ == '__main__':
     print("开始生成报告！")
     subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE).communicate()
     print("报告生成完毕！")
-# Dpancaozuo
 

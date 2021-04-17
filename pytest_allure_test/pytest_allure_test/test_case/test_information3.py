@@ -23,4 +23,4 @@ def test_information():
     # print(response_txt['msg'], yaml_data['test_information']['exp_code']['msg'])
     Assert_class().assert_msg(msg=response_txt['msg'], exp_msg=yaml_data['test_information']['exp_code']['msg'])
     Assert_class().assert_code(code=response_txt['code'], exp_code=yaml_data['test_information']['exp_code']['code'])
-    Assert_class().assert_code(req_code=response.status_code, exp_recode=yaml_data['test_information']['exp_code']['req_code'])
+    # Assert_class().assert_code(req_code=response.status_code, exp_recode=yaml_data['test_information']['exp_code']['req_code'])
