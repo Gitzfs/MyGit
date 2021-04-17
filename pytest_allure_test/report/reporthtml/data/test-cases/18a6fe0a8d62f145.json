@@ -1,0 +1,418 @@
+{
+  "uid" : "18a6fe0a8d62f145",
+  "name" : "test_information",
+  "fullName" : "test_case.test_information3#test_information",
+  "historyId" : "ac7f4079c168e0d169d5df8db56ab99f",
+  "time" : {
+    "start" : 1618654390264,
+    "stop" : 1618654390464,
+    "duration" : 200
+  },
+  "description" : "信息流接口",
+  "descriptionHtml" : "<p>信息流接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_information3"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-A9TU4A3"
+  }, {
+    "name" : "thread",
+    "value" : "9164-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_information3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试接口",
+    "url" : "http://bug.com/user-login-Lw==.html",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6f239f7ff1e5082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618654122777,
+        "stop" : 1618654123021,
+        "duration" : 244
+      }
+    }, {
+      "uid" : "3edf4f096bce4e4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618654018488,
+        "stop" : 1618654018706,
+        "duration" : 218
+      }
+    }, {
+      "uid" : "dd5e7f66ccb06ed8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618653806569,
+        "stop" : 1618653806862,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "ca3b9aa47197a67a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618653128942,
+        "stop" : 1618653129177,
+        "duration" : 235
+      }
+    }, {
+      "uid" : "25b361292954ca4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618653040096,
+        "stop" : 1618653040493,
+        "duration" : 397
+      }
+    }, {
+      "uid" : "6680576cc02f95a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618651076775,
+        "stop" : 1618651077018,
+        "duration" : 243
+      }
+    }, {
+      "uid" : "3006914092c53a7d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: assert_code() got an unexpected keyword argument 'req_code'",
+      "time" : {
+        "start" : 1618651044189,
+        "stop" : 1618651044438,
+        "duration" : 249
+      }
+    }, {
+      "uid" : "29113b983f3ecf4a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: assert_code() got an unexpected keyword argument 'req_code'",
+      "time" : {
+        "start" : 1618484542355,
+        "stop" : 1618484542569,
+        "duration" : 214
+      }
+    }, {
+      "uid" : "9798cac9942aeb6f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: assert_code() got an unexpected keyword argument 'req_code'",
+      "time" : {
+        "start" : 1618484390157,
+        "stop" : 1618484390354,
+        "duration" : 197
+      }
+    }, {
+      "uid" : "2196a08d778b6355",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618484186763,
+        "stop" : 1618484186767,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "6d3ebe382d8fddc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618483368955,
+        "stop" : 1618483369186,
+        "duration" : 231
+      }
+    }, {
+      "uid" : "2cde807ff27a109b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618483353834,
+        "stop" : 1618483354062,
+        "duration" : 228
+      }
+    }, {
+      "uid" : "ca22e3fa787d5756",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618483339567,
+        "stop" : 1618483339571,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "db69fd48e05042bb",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618483325638,
+        "stop" : 1618483325642,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "ead488c004b36da",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618483264559,
+        "stop" : 1618483264563,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "415498103500d3ed",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618483149991,
+        "stop" : 1618483149995,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "b5ee21573bb24a95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618482892464,
+        "stop" : 1618482892710,
+        "duration" : 246
+      }
+    }, {
+      "uid" : "c5137383281280dc",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618482836154,
+        "stop" : 1618482836158,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "6256c3b62f47cb5c",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618482778823,
+        "stop" : 1618482778827,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "cc4d750f90bd4c19",
+      "status" : "broken",
+      "statusDetails" : "yaml.parser.ParserError: while parsing a flow mapping\n  in \"./yaml_data/yaml_request_data.yaml\", line 44, column 15\nexpected ',' or '}', but got '<scalar>'\n  in \"./yaml_data/yaml_request_data.yaml\", line 47, column 9",
+      "time" : {
+        "start" : 1618482682526,
+        "stop" : 1618482682530,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "3cf4d30f205c1029",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618482268457,
+        "stop" : 1618482268687,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "d2c51037cce96eff",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 失败",
+      "time" : {
+        "start" : 1618482062500,
+        "stop" : 1618482062708,
+        "duration" : 208
+      }
+    }, {
+      "uid" : "509955d9fbace60f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618482042877,
+        "stop" : 1618482043097,
+        "duration" : 220
+      }
+    }, {
+      "uid" : "42040b7bd0996c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481558264,
+        "stop" : 1618481558469,
+        "duration" : 205
+      }
+    }, {
+      "uid" : "e03851e09662df57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481544393,
+        "stop" : 1618481544573,
+        "duration" : 180
+      }
+    }, {
+      "uid" : "e04054b301b259cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481484510,
+        "stop" : 1618481484683,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "e7867d6e2540af0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481471554,
+        "stop" : 1618481471783,
+        "duration" : 229
+      }
+    }, {
+      "uid" : "d9f962a95b734ac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481423203,
+        "stop" : 1618481423523,
+        "duration" : 320
+      }
+    }, {
+      "uid" : "2368a0e570ed97af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481409870,
+        "stop" : 1618481410072,
+        "duration" : 202
+      }
+    }, {
+      "uid" : "e8cc55292c505e6f",
+      "status" : "broken",
+      "statusDetails" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "time" : {
+        "start" : 1618481387599,
+        "stop" : 1618481387620,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "2b7fd55fd41a7dc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481366298,
+        "stop" : 1618481366528,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "a9d8b4c2dfd1ac8f",
+      "status" : "broken",
+      "statusDetails" : "UnicodeEncodeError: 'ascii' codec can't encode character '\\u3002' in position 3: ordinal not in range(128)",
+      "time" : {
+        "start" : 1618481223172,
+        "stop" : 1618481223179,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "1e6e765a9404eda6",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data。'",
+      "time" : {
+        "start" : 1618481172693,
+        "stop" : 1618481172697,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "c4c9923ca77c69ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481155575,
+        "stop" : 1618481155761,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "9ede13a5d3884a16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481115319,
+        "stop" : 1618481115538,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "a7fa6fa91de39e3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481101276,
+        "stop" : 1618481101450,
+        "duration" : 174
+      }
+    }, {
+      "uid" : "b8728f779a9d97c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481080858,
+        "stop" : 1618481081038,
+        "duration" : 180
+      }
+    }, {
+      "uid" : "e764b9e9f37a8d14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618481058423,
+        "stop" : 1618481058659,
+        "duration" : 236
+      }
+    }, {
+      "uid" : "7abc8b1797415ffe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618480570741,
+        "stop" : 1618480570974,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "a7b91c3b3ee14a3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618480496652,
+        "stop" : 1618480496870,
+        "duration" : 218
+      }
+    }, {
+      "uid" : "84b51e1e54ed60d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618480404909,
+        "stop" : 1618480405138,
+        "duration" : 229
+      }
+    }, {
+      "uid" : "e7630872fc788f7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618478330594,
+        "stop" : 1618478330881,
+        "duration" : 287
+      }
+    }, {
+      "uid" : "8a726b30c47ba52e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618466341550,
+        "stop" : 1618466341808,
+        "duration" : 258
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18a6fe0a8d62f145.json",
+  "parameterValues" : [ ]
+}

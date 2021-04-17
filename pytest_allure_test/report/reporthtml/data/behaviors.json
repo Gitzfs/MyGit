@@ -3,13 +3,13 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "test_information",
-    "uid" : "f366eab8587228d3",
+    "uid" : "18a6fe0a8d62f145",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1618654122777,
-      "stop" : 1618654123021,
-      "duration" : 244
+      "start" : 1618654390264,
+      "stop" : 1618654390464,
+      "duration" : 200
     },
     "flaky" : false,
     "newFailed" : false,
