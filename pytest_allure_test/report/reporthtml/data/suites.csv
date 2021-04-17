@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Apr 17 18:34:41 CST 2021","Sat Apr 17 18:34:41 CST 2021","204","test_case","test_information3","","","","test_information","信息流接口"
+"passed","Sat Apr 17 18:40:12 CST 2021","Sat Apr 17 18:40:12 CST 2021","184","test_case","test_information3","","","","test_information","信息流接口"
