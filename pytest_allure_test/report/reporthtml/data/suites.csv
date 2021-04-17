@@ -1,2 +1,2 @@
-"Status","Name","Duration in ms","Description"
-"broken","test_case.test_information3#test_information","214","信息流接口"
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 17 17:17:56 CST 2021","Sat Apr 17 17:17:57 CST 2021","243","test_case","test_information3","","","","test_information","信息流接口"

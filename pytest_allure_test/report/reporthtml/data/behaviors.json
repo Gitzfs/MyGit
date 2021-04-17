@@ -3,15 +3,16 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "test_information",
-    "uid" : "85aa50de6e10f11",
+    "uid" : "a16d2b7dcdc14fb0",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "broken",
+    "status" : "passed",
     "time" : {
-      "start" : 1618484542355,
-      "stop" : 1618484542569,
-      "duration" : 214
+      "start" : 1618651076775,
+      "stop" : 1618651077018,
+      "duration" : 243
     },
-    "flaky" : true,
+    "flaky" : false,
+    "newFailed" : false,
     "parameters" : [ ]
   } ]
 }
