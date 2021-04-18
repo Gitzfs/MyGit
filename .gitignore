@@ -1,3 +1,5 @@
 /pytest_allure_test/report/reportallure/
 *.json
 \pytest_allure_test\report\reportallure\
+pytest_allure_test/report/reporthtml/
+pytest_allure_test/report/
