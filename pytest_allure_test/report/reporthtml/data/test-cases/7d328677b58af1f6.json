@@ -1,11 +1,11 @@
 {
-  "uid" : "d00cf4cc75986629",
+  "uid" : "7d328677b58af1f6",
   "name" : "test_information",
   "fullName" : "test_case.test_information3#test_information",
   "historyId" : "ac7f4079c168e0d169d5df8db56ab99f",
   "time" : {
-    "start" : 1618660290321,
-    "stop" : 1618660290522,
+    "start" : 1618666198552,
+    "stop" : 1618666198753,
     "duration" : 201
   },
   "description" : "信息流接口",
@@ -14,6 +14,23 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "信息流接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "96e4b24b29504bb4",
+      "name" : "stdout",
+      "source" : "96e4b24b29504bb4.txt",
+      "type" : "text/plain",
+      "size" : 17784
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "parentSuite",
@@ -26,7 +43,7 @@
     "value" : "DESKTOP-A9TU4A3"
   }, {
     "name" : "thread",
-    "value" : "3324-MainThread"
+    "value" : "7468-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -50,10 +67,26 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "f99d793944c4f05b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618666156270,
+        "stop" : 1618666156516,
+        "duration" : 246
+      }
+    }, {
+      "uid" : "6f096d4aa5103228",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618665176628,
+        "stop" : 1618665176858,
+        "duration" : 230
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d00cf4cc75986629.json",
+  "source" : "7d328677b58af1f6.json",
   "parameterValues" : [ ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "a0373641fd49abff",
+  "uid" : "f99d793944c4f05b",
   "name" : "test_information",
   "fullName" : "test_case.test_information3#test_information",
   "historyId" : "ac7f4079c168e0d169d5df8db56ab99f",
   "time" : {
-    "start" : 1618665176628,
-    "stop" : 1618665176858,
-    "duration" : 230
+    "start" : 1618666156270,
+    "stop" : 1618666156516,
+    "duration" : 246
   },
   "description" : "信息流接口",
   "descriptionHtml" : "<p>信息流接口</p>\n",
@@ -26,7 +26,7 @@
     "value" : "DESKTOP-A9TU4A3"
   }, {
     "name" : "thread",
-    "value" : "11100-MainThread"
+    "value" : "10328-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -46,14 +46,12 @@
     "url" : "http://bug.com/user-login-Lw==.html",
     "type" : "test_case"
   } ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a0373641fd49abff.json",
+  "source" : "f99d793944c4f05b.json",
   "parameterValues" : [ ]
 }
